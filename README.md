@@ -1,2 +1,2 @@
 # Mixed-Messages
-JavaScript program that interacts with the user to give them a message
+This a project completed by me from Codecademy. The point of the project is to use the fundamentals of JavaScript in order to print messages.
